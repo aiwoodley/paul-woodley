@@ -172,3 +172,4 @@ h3{font-size:1.35rem}
 .giving{list-style:none;margin-top:12px}
 .giving li{color:#c9d2dc;font-size:.92rem;padding:8px 0;border-bottom:1px solid var(--line)}
 .giving strong{color:var(--ink)}
+.g-item.wide img{object-position:center 62%}
