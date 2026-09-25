@@ -12,10 +12,14 @@ Personal brand site for Paul Woodley. It is plain static HTML/CSS/JS with no bui
 
 ## Paul must provide or approve before launch
 - [x] Portrait + 9 personal photos added (resized, metadata stripped). The RCG ship selfie was left out on purpose: employer branding
-- [ ] Still needed: triathlon photo, DigiLabs lab/giveaway photo
-- [ ] Where was the macaw photo taken? (optional caption)
+- [x] Triathlon (Ocean Key) photo, bike/Miami, basketball, marina, fountain added
+- [ ] Still needed: DigiLabs lab/giveaway photo
+- [ ] Optional captions: macaw, marina/mountain, forest fountain locations
+- Left out on purpose: RCG hard-hat selfie + Voyager of the Seas model (employer branding), shirtless jungle shot (tone). Easy to add back
 - [ ] The two DigiLabs lab videos (desktop teardown, drive sanitization). They are in the Muse workspace, not on this machine
-- [ ] LinkedIn URL, or: past roles, dates, FSU degree/major and year, certifications
+- [x] Work history, degree, certs, volunteering filled from public LinkedIn
+- [ ] Title conflict: LinkedIn says "Application Engineer" (Jul 2024–present), Muse says "Systems Engineer, IT Shipboard Gaming". Site uses the Muse title. Confirm and update LinkedIn to match
+- [ ] OK to name Bloom Medicinals (cannabis operator) publicly? It's already on LinkedIn
 - [ ] The public one-liner for the RCG role. Check it against RCG's outside-activity / social media policy
 - [ ] Confirm "co-founder" wording for DigiLabs (the Muse prompt said "Founder"; Peter's says cofounder)
 - [ ] Next travel stop (optional)
