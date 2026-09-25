@@ -11,8 +11,9 @@ Personal brand site for Paul Woodley. It is plain static HTML/CSS/JS with no bui
 - Peter's site: https://peter-woodley.netlify.app
 
 ## Paul must provide or approve before launch
-- [ ] Portrait photo (no stock photos of people)
-- [ ] Gallery photos: travel, triathlon, running, family, DigiLabs
+- [x] Portrait + 9 personal photos added (resized, metadata stripped). The RCG ship selfie was left out on purpose: employer branding
+- [ ] Still needed: triathlon photo, DigiLabs lab/giveaway photo
+- [ ] Where was the macaw photo taken? (optional caption)
 - [ ] The two DigiLabs lab videos (desktop teardown, drive sanitization). They are in the Muse workspace, not on this machine
 - [ ] LinkedIn URL, or: past roles, dates, FSU degree/major and year, certifications
 - [ ] The public one-liner for the RCG role. Check it against RCG's outside-activity / social media policy
